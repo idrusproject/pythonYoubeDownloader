@@ -1,5 +1,5 @@
 # Import pytube module
-from pytube import YouTubee
+from pytube import YouTube
 
 
 def Download(link):
