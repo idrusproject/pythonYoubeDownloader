@@ -1,4 +1,4 @@
-# Import putube module
+# Import pytube module
 from pytube import YouTubee
 
 
